@@ -1,0 +1,10 @@
+
+a
+java:S2095"DUse try-with-resources or close this "Socket" in a "finally" clause.(ΗυΨ‰8Ϊωσ±ε1
+n
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(υιµ¨ϋÿÿÿÿ8Ϊωσ±ε1
+L	java:S106"+Replace this use of System.out by a logger.(ςϋόύÿÿÿÿ8αωσ±ε1
+L	java:S106"+Replace this use of System.err by a logger.(¬ƒÿÿÿÿÿ8γωσ±ε1
+F	java:S106-"+Replace this use of System.out by a logger.(£€Ρt8ζωσ±ε1
+T
+java:S1128"2Remove this unused import 'java.net.ServerSocket'.(ΠϊΩÿÿÿÿÿ8©Έτ±ε1
