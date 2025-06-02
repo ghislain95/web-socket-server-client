@@ -9,7 +9,7 @@ public class ServeurTCP {
     public static void main(String[] args) {
         try {
             // Adresse IP et port de l'imprimante
-            String printerAddress = "10.1.196.69";
+            String printerAddress = "10.1.199.231";
             int printerPort = 9100;
 
             // Créer un socket pour se connecter à l'imprimante
@@ -17,7 +17,7 @@ public class ServeurTCP {
             System.out.println("Connexion établie avec l'imprimante.");
 
             // Récupérer le chemin du fichier à envoyer
-            String filePath = "data/fichier.txt";
+            String filePath = "data/fichier_label_SSCC_Monarch.txt";
             File file = new File(filePath);
 
             // Vérifier si le fichier existe
