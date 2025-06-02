@@ -9,7 +9,7 @@ public class ServeurTCP {
     public static void main(String[] args) {
         try {
             // Adresse IP et port de l'imprimante
-            String printerAddress = "10.1.199.231";
+            String printerAddress = "10.1.196.69";
             int printerPort = 9100;
 
             // Créer un socket pour se connecter à l'imprimante
